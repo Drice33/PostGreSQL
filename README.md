@@ -12,4 +12,4 @@ travail avec linux Ubuntu 16.04 sur une machine virtuelle avec VirtualBox 5
 
 Installation de PostGreSQL 9.5.11
 
-# Pour la suite:
+# Pour la suite: https://github.com/Drice33/PostGreSQL/wiki
