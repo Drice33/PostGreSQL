@@ -1,7 +1,7 @@
 # PostGreSQL
 Groupe CFAC 
 
-<b> Membres:
+<b> Membres: </b>
  
 CANTELOUP Anthony (Drice33) 
  
