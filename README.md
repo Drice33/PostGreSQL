@@ -1,7 +1,13 @@
 # PostGreSQL
-Groupe projet 
+Groupe CFAC 
 
-Membres:
-<p> CANTELOUP Anthony (Drice33) 
-<p> FLAMANT Cédric (fufulift)
+<b> Membres:
  
+CANTELOUP Anthony (Drice33) 
+ 
+FLAMANT Cédric (fufulift)
+ 
+## Installation de PostGreSQL
+travail sous linux Ubuntu 16.04
+
+Installation de PostGreSQL 9.5.11
