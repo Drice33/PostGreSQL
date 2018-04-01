@@ -15,6 +15,7 @@ FLAMANT Cédric (Drice33)
 Pour le bon fonctionnement de MySQL et PhpMyAdmin sous windows 10, nous allons installer WampServer 3.0.1.
 
 Les étapes d'installations sont sur les images 1 à 4 dans le bon ordre.
+
 Ensuite il suffit de démarer WampServer et de ce connecter avec ces identifiants.
 
 ## Création de l'application
