@@ -83,6 +83,13 @@ class BackupMysql
 
 		echo "<br/>Le fichier : ".$this->archive_GZIP."a etait sauvegarde";
 	}
+
+	public function restoreBDD($DBSaved)
+	{
+		$commande = 'mysql';
+		$commande = ' --user='.$this->db_username.' --password='.$this->db_password < $DBSaved;
+		system($commande);
+	}
 }
 
 ?>
