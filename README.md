@@ -3,13 +3,13 @@ Groupe CFAC
 
 <b> Membres: </b>
  
-CANTELOUP Anthony (Drice33) 
+CANTELOUP Anthony (fufulift) 
  
-FLAMANT Cédric (fufulift)
+FLAMANT Cédric (Drice33)
  
-## Installation de PostGreSQL
-travail avec linux Ubuntu 16.04 sur une machine virtuelle avec VirtualBox 5
+## Installation de PhpMyAdmin
+travail avec windows 10 sur une machine virtuelle avec VirtualBox 5
 
-Installation de PostGreSQL 9.5.11
+Installation de PhpMyAdmin
 
 # Pour la suite: https://github.com/Drice33/PostGreSQL/wiki
