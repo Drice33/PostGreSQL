@@ -23,7 +23,16 @@ Tout est dans le fichier : class.BackupMysql.php
 
 Le fichier suivant fait les ordres suvants:
 
-### Sauvegarde de l'ensemble des bases de données présentes sur le serveur
-### Restauration de la sauvegarde
-### Gérer la rétention des sauvegardes (ex: fichier de conf)
+(Pensez à ajouter : require_once('class.BackupMysql.php') dans votre fichier Php) 
 
+### Sauvegarde de l'ensemble des bases de données présentes sur le serveur
+$nBackupMysql = new BackupMysql("server_name.bdd", "BDD_name", "identifiant", "password", 
+								                        "charset_utf8_or_latin1", "repo_save_name", 
+								                        "zip_name");
+$nBackupMysql->setBackupMySql();
+
+### Restauration de la sauvegarde
+$nBackupMysql->restoreBDD(bdd_saved.sql);
+
+### Gérer la rétention des sauvegardes (ex: fichier de conf)
+$nBackupMysql->setBackupMySql();
