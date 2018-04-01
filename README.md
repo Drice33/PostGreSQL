@@ -6,10 +6,18 @@ Groupe CFAC
 CANTELOUP Anthony (fufulift) 
  
 FLAMANT Cédric (Drice33)
- 
-## Installation de PhpMyAdmin
-travail avec windows 10 sur une machine virtuelle avec VirtualBox 5
 
-Installation de PhpMyAdmin
+## Choix de l'ISO
+<p>Nous avons choisit l'installation d'une VM windows 10.</p>
+ (4 Go de RAM, 32 Go de stockage).</p>
 
-# Pour la suite: https://github.com/Drice33/PostGreSQL/wiki/TUTO-Wiki
+## Installation de MySQL et PhpMyAdmin graphique
+Pour le bon fonctionnement de MySQL et PhpMyAdmin sous windows 10, nous allons installer WampServer 3.0.1.
+
+Les étapes d'installations sont sur les images 1 à 4 dans le bon ordre.
+Ensuite il suffit de démarer WampServer et de ce connecter avec ces identifiants.
+
+## Création de l'application
+### Sauvegarde de l'ensemble des bases de données présentes sur le serveur
+### Restauration de la sauvegarde
+### Gérer la rétention des sauvegardes (ex: fichier de conf)
