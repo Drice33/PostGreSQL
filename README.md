@@ -18,6 +18,11 @@ Les étapes d'installations sont sur les images 1 à 4 dans le bon ordre.
 Ensuite il suffit de démarer WampServer et de ce connecter avec ces identifiants.
 
 ## Création de l'application
+Tout est dans le fichier : class.BackupMysql.php
+
+Le fichier suivant fait les ordres suvants:
+
 ### Sauvegarde de l'ensemble des bases de données présentes sur le serveur
 ### Restauration de la sauvegarde
 ### Gérer la rétention des sauvegardes (ex: fichier de conf)
+
